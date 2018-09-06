@@ -15,7 +15,7 @@ public class PrimerRepositorio {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-         System.out.println("Creación del primer repositorio.");
+        System.out.println("Creación del primer repositorio.");
         System.out.println("https://github.com/adriana3r/PrimerRepositorio.git");
         System.out.println("Netbeans/Team/Git/InitializeRepository");
         System.out.println("Proyecto/Git/Add");
