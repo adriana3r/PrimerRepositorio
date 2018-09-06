@@ -20,7 +20,7 @@ public class PrimerRepositorio {
         System.out.println("Netbeans/Team/Git/InitializeRepository");
         System.out.println("Proyecto/Git/Add");
         System.out.println("Proyecto/Git/Commit");
-        System.out.println("Proyecto/Git/Remote/Pull");
+        System.out.println("Proyecto/Git/Remote/Push");
     }
     
 }
